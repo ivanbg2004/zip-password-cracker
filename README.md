@@ -64,3 +64,6 @@ Looking forward to seeing you soon!
 
 Best regards,
 Oblivion Forgotten - An Ethical Hacker, promoting responsible and ethical hacking.
+
+
+PD: This file and comments were made with AI so I have to study and work. On my free time I was with the code and then I used AI to comment it and also do the README.md file.
